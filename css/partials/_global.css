@@ -2,3 +2,6 @@ html {
   scroll-behavior: smooth;
   box-sizing: border-box;
 }
+header, main, footer{
+  width: 100%;
+}

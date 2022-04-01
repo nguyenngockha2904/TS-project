@@ -1,0 +1,14 @@
+/* @import fonts */
+@import url(./fonts.css);
+
+/* @import variables css*/
+@import url(./partials/_variables.css);
+
+/* @import global css */
+@import url(./partials/_global.css);
+
+/* key frame animation css */
+@import url(./partials/_keyframe.css);
+
+/* @import icons */
+@import url(./icons.css);

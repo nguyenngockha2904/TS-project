@@ -1,7 +1,26 @@
 html {
   scroll-behavior: smooth;
   box-sizing: border-box;
+  font-family: var(--GothamBook);
 }
 header, main, footer{
   width: 100%;
 }
+p{
+  margin: 0;
+}
+button:focus,
+button:active,
+button:hover .btn:active,
+.btn.active {
+  outline: 0px !important;
+  box-shadow: none !important;
+  transition: all 600ms ease;
+  transition: all var(--transition-duration) ease; }
+
+  input:focus,
+  input:active,
+  input:hover{
+    outline: 0px !important;
+    box-shadow: none !important;
+  }

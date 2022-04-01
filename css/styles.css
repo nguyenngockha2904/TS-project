@@ -12,3 +12,93 @@
 
 /* @import icons */
 @import url(./icons.css);
+
+header {
+}
+header .navbar-collapse .nav-item .nav-link {
+  font-size: 14px;
+  padding: 15px 20px 0 20px;
+  color: #fff;
+  font-family: var(--GothamBook);
+}
+header .header__form-search input:focus,
+header .header__form-search input:active,
+header .header__form-search input:hover,
+header .header__form-search input {
+  color: #fff;
+  font-family: var(--GothamLight);
+}
+header .header__form-search input {
+  border: 1px solid #fff;
+  font-size: 12px;
+}
+header .header__form-search input::-webkit-input-placeholder {
+  /* Edge */
+  color: #fff;
+}
+
+header .header__form-search input:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #fff;
+}
+
+header .header__form-search input::placeholder {
+  color: #fff;
+}
+.line-section {
+  position: relative;
+  border-bottom: 1px solid #232323;
+  margin: 5% 0;
+  margin-bottom: 10%;
+}
+.line-section img {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.contact {
+  background-color: #e5e5e5;
+  padding: 5%;
+}
+.contact .contact__title {
+  color: #2a4178;
+  font-size: 27px;
+  font-family: var(--GothamRegular);
+  font-weight: 800;
+}
+.contact .icon {
+  width: 30px;
+  height: 30px;
+}
+.label-icon {
+  display: flex;
+  align-items: center;
+}
+.label-icon .icon {
+  margin-right: 10px;
+}
+
+.label-icon .contact__title {
+  margin-bottom: 4px;
+}
+.label-icon.dark .contact__title {
+    color: #fff;
+  }
+footer {
+  background-color: #232323;
+  padding: 5% 0;
+}
+footer .head__footer{
+    padding-bottom: 5%;
+}
+
+footer .text {
+    font-size: 16px;
+    color: #fff;
+    font-weight: 500;
+}
+footer .head__footer{
+    margin-bottom: 3%;
+}

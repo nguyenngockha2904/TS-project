@@ -5,6 +5,8 @@
  --GothamBookItalic:"Gotham Book Italic";
  --GothamLight:"Gotham Light";
  --GothamLightItalic:"Gotham Light Italic";
+ --GothamBold:"Gotham Bold";
+ --GothamRegular:"Gotham Regular";
 }
 
 @font-face {
@@ -27,4 +29,22 @@
   font-family: var(--GothamLightItalic);
   src: url(../fonts/gotham/SVN-Gotham-Light-Italic.otf);
   font-weight: 300;
+}
+
+@font-face {
+  font-family: var(--GothamBook);
+  src: url(../fonts/gotham/SVN-Gotham-Book.otf);
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: var(--GothamBold);
+  src: url(../fonts/gotham/SVN-Gotham-Bold.otf);
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: var(--GothamRegular);
+  src: url(../fonts/gotham/SVN-Gotham-Regular.otf);
+  font-weight: 700;
 }

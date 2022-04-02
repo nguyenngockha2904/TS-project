@@ -15,6 +15,9 @@
 
 header {
 }
+header .header__container{
+  background-color: #232323;
+}
 header .navbar-collapse .nav-item .nav-link {
   font-size: 14px;
   padding: 15px 20px 0 20px;
@@ -47,7 +50,7 @@ header .header__form-search input::placeholder {
 }
 .line-section {
   position: relative;
-  border-bottom: 1px solid #232323;
+  border-bottom: 1px solid #939393;
   margin: 5% 0;
   margin-bottom: 10%;
 }

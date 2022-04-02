@@ -24,3 +24,7 @@ button:hover .btn:active,
     outline: 0px !important;
     box-shadow: none !important;
   }
+
+.opacity-0{
+  opacity: 0;
+}

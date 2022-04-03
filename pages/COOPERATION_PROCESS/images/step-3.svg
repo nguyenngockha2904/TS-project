@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="215" height="142" viewBox="0 0 215 142">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="44" y="-13" width="215" height="142" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="step-3" transform="translate(-44 13)" clip-path="url(#clip-path)" style="isolation: isolate">
+    <g id="step-3-2" data-name="step-3" transform="translate(-819.178 -913.155)">
+      <line id="Line_8" data-name="Line 8" x2="217.233" transform="translate(1006.012 1015.9)" fill="none" stroke="#ffc20e" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_77" data-name="Path 77" d="M1006.008,1015.9c-24.16,0-32.54-3.03-40.25-5.67-6.04,3.01-10.22,6.71-15.31,7.55-8.88,1.45-11.85-1.68-11.85-4.14,0-4.25,7.6-9.24,22.31-4.98,1.68.48,3.25,1.02,4.85,1.57a37.945,37.945,0,0,1,17.64-4.07h15.48v-89.45c-28.07,0-46.5,12.53-66.16,12.53v75.116a11.543,11.543,0,0,1-11.544,11.544h-99" fill="none" stroke="#ffc20e" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_78" data-name="Path 78" d="M941.038,938.458c14.8-2.3,29.78-9.77,49.67-11.48" fill="none" stroke="#ffc20e" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_79" data-name="Path 79" d="M941.038,948.248c14.8-2.3,29.78-9.77,49.67-11.48" fill="none" stroke="#ffc20e" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_80" data-name="Path 80" d="M941.038,958.038c14.8-2.3,29.78-9.77,49.67-11.48" fill="none" stroke="#ffc20e" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_81" data-name="Path 81" d="M941.038,967.838c14.8-2.3,29.78-9.77,49.67-11.48" fill="none" stroke="#ffc20e" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_82" data-name="Path 82" d="M1007.436,982.074a17.609,17.609,0,1,1-17.609-17.609,17.609,17.609,0,0,1,17.609,17.609" fill="#fff"/>
+      <path id="Path_83" data-name="Path 83" d="M1007.436,982.074a17.609,17.609,0,1,1-17.609-17.609A17.609,17.609,0,0,1,1007.436,982.074Z" fill="none" stroke="#ffc20e" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_84" data-name="Path 84" d="M994.409,985.921a6.518,6.518,0,1,1-6.519-6.519,6.519,6.519,0,0,1,6.519,6.519" fill="#fff"/>
+      <path id="Path_85" data-name="Path 85" d="M994.409,985.921a6.518,6.518,0,1,1-6.519-6.519A6.519,6.519,0,0,1,994.409,985.921Z" fill="none" stroke="#ffc20e" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_10" data-name="Line 10" y2="22.968" transform="translate(994.409 970.477)" fill="none" stroke="#ffc20e" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_12" data-name="Line 12" x2="9.881" transform="translate(988.401 974.061)" fill="none" stroke="#ffc20e" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

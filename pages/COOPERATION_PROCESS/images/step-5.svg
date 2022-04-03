@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="215" height="142" viewBox="0 0 215 142">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="206" y="-8" width="215" height="142" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="step-5" transform="translate(-206 8)" clip-path="url(#clip-path)" style="isolation: isolate">
+    <g id="Group_44" data-name="Group 44" transform="translate(-1237.645 -916.202)">
+      <path id="Path_70" data-name="Path 70" d="M1573.074,917.2a19.727,19.727,0,0,0-19.494,16.714h-30.3v22.729h6.014V939.93h24.283a19.723,19.723,0,1,0,19.494-22.728" transform="translate(0 8)" fill="#fff"/>
+      <path id="Path_71" data-name="Path 71" d="M1573.074,917.2a19.727,19.727,0,0,0-19.494,16.714h-30.3v22.729h6.014V939.93h24.283a19.723,19.723,0,1,0,19.494-22.728" transform="translate(0 8)" fill="none" stroke="#ffc20e" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_73" data-name="Path 73" d="M1530.805,925.559a4.516,4.516,0,1,0-4.516,4.516,4.515,4.515,0,0,0,4.516-4.516" transform="translate(0 8)" fill="none" stroke="#ffc20e" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_74" data-name="Path 74" d="M1475.611,1015.9h75.919a59.211,59.211,0,0,0,21.5-4.041l14.65-5.707a24.137,24.137,0,0,0,11.029-8.677l10.7-15.337a3.9,3.9,0,0,0-6.071-4.88l-9.653,10.466a20.223,20.223,0,0,1-12.96,6.422l-17.153,1.623a4.245,4.245,0,0,1-4.634-4.522,8.956,8.956,0,0,1,6.784-8.066l8.025-1.983a3.8,3.8,0,0,0-.912-7.494h-11.979a33.309,33.309,0,0,0-18.319,5.49l-4.381,2.885a16.977,16.977,0,0,1-9.273,2.8,47.378,47.378,0,0,1-6.985-.448c-5.347-.6-7.7,1.724-8.039,9.93-.408,9.827,4.95,26.248-1.032,27.907-8.641,2.4-12.941-23.537-9.553-33.506,1.487-4.374,5.949-5.774,8.629-3.631,10.913,8.723,8.62,47.465,35.912,44.126,14.506-1.775,29.062-13.352,49.878-13.352h59.6" transform="translate(0 8)" fill="none" stroke="#ffc20e" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_88" data-name="Path 88" d="M1258.178,962.118c7.32,12.53-18.51,4.926-19.49,16.3-.43,4.96,3.11,7.23,7.28,7.8a7.982,7.982,0,0,0-1.53,7.02c.94,3.091,4.04,4.39,7.56,4.58-.89,2.12-.89,4.31.72,6.07,4.55,4.97,15.18-1.456,22.32-.026,5.23,1.05,12.112,12.04,23.835,12.04h187.575" transform="translate(0 8)" fill="none" stroke="#ffc20e" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,114 @@
+#banner {
+    min-height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    z-index: 1;
+}
+
+#banner .overplay {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), transparent);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+#banner .banner__div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    position: relative;
+    z-index: 99;
+}
+
+#banner .banner__box {
+    background-color: #fff;
+    position: relative;
+    padding: 100px 0;
+}
+
+#banner .banner__box .icon_float {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -20px);
+    top: 0;
+}
+
+#banner .banner__box .contact__div {
+    background-color: #232323;
+    padding: 30px 15px;
+    margin: 0 25px;
+}
+
+#banner .banner__box .contact__div .contact__content {
+    color: #fff;
+    font-family: var(--GothamLightItalic);
+    font-style: italic;
+    font-size: 16px;
+}
+#banner .banner__box .contact__div .wrap_contact__form{
+    padding-right: 50px;
+}
+#banner .banner__box .contact__div .contact__form {
+    background-color: #F3F3F3;
+    padding: 30px;
+}
+
+#banner .banner__box .contact__div .contact__form .text-title {
+    font-size: 24px;
+    line-height: 1.1;
+    font-family: var(--GothamBook);
+    padding-bottom: 15px;
+}
+
+#banner .banner__box .contact__div .contact__form input::-webkit-input-placeholder,
+#banner .banner__box .contact__div .contact__form input:-ms-input-placeholder,
+#banner .banner__box .contact__div .contact__form input::placeholder {
+    color: #AFAFB0;
+}
+
+#banner .banner__box .contact__div .contact__form input {
+    border: 0;
+    font-family: var(--GothamBook);
+    border-radius: 0;
+}
+#banner .banner__box .contact__div .contact__form .form__actions{
+    padding:0 20px;
+}
+#banner .banner__box .contact__div .contact__form button{
+    border-radius: 0;
+    width: 100%;
+    font-size: 18px;
+    font-family: var(--GothamBook);
+}
+
+#banner .showroom_info {
+    position: relative;
+  }
+  
+#banner .showroom_info .showroom_img_overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 135px;
+    padding-right: 90px;
+  }
+  
+#banner .showroom_info .showroom_img_overlay .showroom__title {
+    font-size: 40px;
+    font-family: var(--GothamBold);
+    margin-bottom: 30px;
+  }
+  
+#banner .showroom_info .showroom_img_overlay .showroom__detail {
+    text-align: right;
+    color: #232323;
+    letter-spacing: 0.7px;
+    margin-bottom: 30px;
+  }

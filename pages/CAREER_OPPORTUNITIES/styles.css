@@ -20,14 +20,14 @@
 }
 
 #banner .banner__content .content__title {
-  font-family: var(--GothamBold);
+  font-family: GothamBold;
   font-size: 35px;
   padding: 10vh 0;
 }
 
 #banner .banner__content .content__text {
   padding: 2.5vh 0;
-  font-family: var(--GothamBookItalic);
+  font-family: GothamBookItalic;
   font-size: 16px;
 }
 #job_category{
@@ -52,13 +52,13 @@
 }
 
 #job_category .job_category__item .content_side .content_subtitle {
-  font-family: var(--GothamLight);
+  font-family: GothamLight;
   line-height: 1.5;
   font-size: 20px;
 }
 
 #job_category .job_category__item .content_side .content_title {
-  font-family: var(--GothamRegular);
+  font-family: GothamRegular;
   line-height: 1.4;
   font-size: 30px;
   white-space: nowrap;
@@ -71,7 +71,7 @@
 }
 
 #job_category .job_category__item .content_side .label-icon .content_text {
-  font-family: var(--GothamLight);
+  font-family: GothamLight;
   color: #686868;
   line-height: 1.5;
   letter-spacing: 1px;
@@ -86,7 +86,7 @@
   margin-bottom: 2.5%;
 }
 #info .info__content p{
-  font-family: var(--GothamLightItalic);
+  font-family: GothamLightItalic;
   font-style: italic;
   font-size: 16px;
   line-height: 1.1;
@@ -102,5 +102,5 @@
   color: #000;
   text-decoration: none;
   font-weight: bold;
-  font-family: var(--GothamBold);
+  font-family: GothamBold;
 }

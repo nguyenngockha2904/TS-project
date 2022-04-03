@@ -22,7 +22,7 @@
 
 #banner .banner__content-div .banner__content{
   font-style: italic;
-  font-family: var(--GothamBookItalic);
+  font-family: GothamBookItalic;
   font-size: 16px;
   color: #fff;
   padding: 5% 0;
@@ -32,7 +32,7 @@
 #banner .banner__content-div .banner__title{
   font-size: 40px;
   color: #fff;
-  font-family: var(--GothamBold);
+  font-family: GothamBold;
   text-align: center;
   padding-bottom: 5%;
 }
@@ -68,11 +68,11 @@
 }
 #banner .banner__steps .step_item .step__detail .title{
   font-weight: bold;
-  font-family: var(--GothamBold);
+  font-family: GothamBold;
   font-size: 20px;
 }
 #banner .banner__steps .step_item .step__detail .detail{
   padding: 10px 20px;
   font-size: 16px;
-  font-family: var(--GothamLight);
+  font-family: GothamLight;
 }

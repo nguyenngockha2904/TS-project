@@ -8,13 +8,13 @@
 
 #event_news .event_news__main .card-title {
 	font-size: 35px;
-	font-family: var(--GothamRegular);
+	font-family: GothamRegular;
 }
 
 #event_news .event_news__main .card-text {
 	font-size: 16px;
 	font-weight: 100;
-	font-family: var(--GothamLight);
+	font-family: GothamLight;
 }
 
 #event_news .text-timeDate {
@@ -22,12 +22,12 @@
 	font-style: italic;
 	font-weight: 100;
 	font-size: 16px;
-	font-family: var(--GothamLightItalic);
+	font-family: GothamLightItalic;
 }
 
 #event_news .text-timeline {
 	color: #8E8E8E;
-	font-family: var(--GothamLight);
+	font-family: GothamLight;
 	font-size: 16px;
 }
 
@@ -47,7 +47,7 @@
 
 #event_news .event_news__list .card-title {
 	font-size: 32px;
-	font-family: var(--GothamRegular);
+	font-family: GothamRegular;
 	flex: 1;
 	flex-shrink: 0;
 	max-height: 120px;
@@ -95,10 +95,10 @@
 	font-weight: bold;
 	font-size: 38px;
 	line-height: 1;
-	font-family: var(--GothamRegular);
+	font-family: GothamRegular;
 }
 #event_news .event_news__list .news__item .datetime_box span{
-	font-family: var(--GothamLight);
+	font-family: GothamLight;
 	line-height: 1;
 	font-size: 16px;
 }
@@ -118,7 +118,7 @@
 #event_news .event_news__pagination .pagination .page-item .btn{
 	text-decoration: none;
 	font-size: 25px;
-	font-family: var(--GothamLight);
+	font-family: GothamLight;
 	font-weight: 100;
 	color: #898989;
 }
@@ -135,7 +135,7 @@
 }
 #event_news .event_news__pagination .pagination .page-item.active .btn{
 	color: #232323;
-	font-family: var(--GothamRegular);
+	font-family: GothamRegular;
 }
 
 #contact_form {
@@ -157,13 +157,13 @@
 	position: relative;
 }
 #contact_form .main_contact_form .text-title{
-	font-family: var(--GothamRegular);
+	font-family: GothamRegular;
 	font-size: 50px;
 	line-height: 1;
 	margin-bottom: 40px;
 }
 #contact_form .main_contact_form .text-detail{
-	font-family: var(--GothamLight);
+	font-family: GothamLight;
 	font-size: 18px;
 	line-height: 1.3;
 	margin-bottom: 60px;
@@ -173,7 +173,7 @@
 	margin-right: 10px;
 	border-color: #fff;
 	color: #fff;
-	font-family: var(--GothamBook);
+	font-family: GothamBook;
 }
 #contact_form .main_contact_form form input:focus{
 	border-color: #fff;
@@ -191,7 +191,7 @@
   color: #fff;
 }
 #contact_form .main_contact_form form button{
-	font-family: var(--GothamBook);
+	font-family: GothamBook;
 	padding-left: 35px;
 	padding-right: 35px;
 }

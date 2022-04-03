@@ -42,13 +42,13 @@
 
 #list_banner .banner_item .banner__offer_box .content_box .offer__title {
   font-size: 25px;
-  font-family: var(--GothamLight);
+  font-family: GothamLight;
   font-weight: 200;
 
 }
 
 #list_banner .banner_item .banner__offer_box .content_box .offer__info .offer__text {
-  font-family: var(--GothamBold);
+  font-family: GothamBold;
   font-weight: bold;
   line-height: 1;
   font-size: 24px;
@@ -59,7 +59,7 @@
 
 #list_banner .banner_item .banner__offer_box .content_box .offer__text_italic {
   font-style: italic;
-  font-family: var(--GothamBookItalic);
+  font-family: GothamBookItalic;
   font-size: 20px;
   line-height: 1.2;
   margin-left: 3px;
@@ -67,14 +67,14 @@
 
 #list_banner .banner_item .banner__offer_box .number_offer .number {
   font-size: 110px;
-  font-family: var(--GothamRegular);
+  font-family: GothamRegular;
   font-weight: bold;
   line-height: 1;
 }
 
 #list_banner .banner_item .banner__offer_box .number_offer .percent {
   font-size: 50px;
-  font-family: var(--GothamRegular);
+  font-family: GothamRegular;
   font-weight: bold;
   line-height: 1;
 }

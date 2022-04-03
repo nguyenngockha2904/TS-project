@@ -1,7 +1,7 @@
 html {
   scroll-behavior: smooth;
   box-sizing: border-box;
-  font-family: var(--GothamBook);
+  font-family: GothamBook;
 }
 header, main, footer{
   width: 100%;

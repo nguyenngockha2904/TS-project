@@ -1,6 +1,6 @@
 main .page_title {
   font-size: 42px;
-  font-family: var(--GothamBold);
+  font-family: GothamBold;
   font-weight: 700;
   color: #000;
   margin: 5% 0;
@@ -22,7 +22,7 @@ main .page_title {
 
 #banner .banner__list-info .banner__text {
   font-size: 16px;
-  font-family: var(--GothamLight);
+  font-family: GothamLight;
   letter-spacing: 0.5px;
 }
 
@@ -35,7 +35,7 @@ main .page_title {
 #banner .div_title .banner__text-title {
   font-size: 42px;
   font-weight: bolder;
-  font-family: var(--GothamBold);
+  font-family: GothamBold;
   line-height: 1.1;
 }
 
@@ -50,7 +50,7 @@ main .page_title {
   justify-content: center;
 }
 #about_detail .about_detail__title{
-  font-family: var(--GothamBold);
+  font-family: GothamBold;
   font-size: 35px;
   font-weight: bold;
   color: #fff;
@@ -75,7 +75,7 @@ main .page_title {
 
 #about_detail .detail_content .text-detail{
   font-weight: 200;
-  font-family: var(--GothamLight);
+  font-family: GothamLight;
   font-size: 16px;
   line-height: 1.3;
   padding-right: 40%;
@@ -96,7 +96,7 @@ main .page_title {
   color: #fff;
   font-size: 16px;
   font-weight: 300;
-  font-family: var(--GothamLight);
+  font-family: GothamLight;
   margin-bottom: 30px;
   text-align: center;
 }

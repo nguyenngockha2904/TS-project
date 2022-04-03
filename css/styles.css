@@ -13,23 +13,26 @@
 /* @import icons */
 @import url(./icons.css);
 
-header {
-}
 header .header__container{
   background-color: #232323;
 }
+
+header .header__container nav{
+  padding: 15px;
+}
+
 header .navbar-collapse .nav-item .nav-link {
   font-size: 14px;
   padding: 15px 20px 0 20px;
   color: #fff;
-  font-family: var(--GothamBook);
+  font-family: GothamBook;
 }
 header .header__form-search input:focus,
 header .header__form-search input:active,
 header .header__form-search input:hover,
 header .header__form-search input {
   color: #fff;
-  font-family: var(--GothamLight);
+  font-family: GothamLight;
 }
 header .header__form-search input {
   border: 1px solid #fff;
@@ -68,7 +71,7 @@ header .header__form-search input::placeholder {
 .contact .contact__title {
   color: #2a4178;
   font-size: 27px;
-  font-family: var(--GothamRegular);
+  font-family: GothamRegular;
   font-weight: 800;
 }
 .contact .icon {

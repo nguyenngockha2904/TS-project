@@ -1,11 +1,11 @@
-#banner {
+#career-page #banner {
   background-size: cover;
   background-position: center;
   position: relative;
   height: 120vh;
 }
 
-#banner .overplay {
+#career-page #banner .overplay {
   background-size: cover;
   position: absolute;
   top: 0;
@@ -14,63 +14,63 @@
   background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.95), rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.05));
 }
 
-#banner .banner__content {
+#career-page #banner .banner__content {
   position: relative;
   height: 80vh;
 }
 
-#banner .banner__content .content__title {
+#career-page #banner .banner__content .content__title {
   font-family: GothamBold;
   font-size: 35px;
   padding: 10vh 0;
 }
 
-#banner .banner__content .content__text {
+#career-page #banner .banner__content .content__text {
   padding: 2.5vh 0;
   font-family: GothamBookItalic;
   font-size: 16px;
 }
-#job_category{
+#career-page #job_category{
     position: relative;
     transform: translateY(-40vh);
 }
-#job_category .job_category__list{
+#career-page #job_category .job_category__list{
   display: grid;
   grid-template: auto / auto auto;
   gap: 50px;
 }
 
-#job_category .job_category__item {}
+#career-page #job_category .job_category__item {}
 
-#job_category .job_category__item .card-img-top {
+#career-page #job_category .job_category__item .card-img-top {
   height: 100%;
 }
 
-#job_category .job_category__item .card-image-side {
+#career-page #job_category .job_category__item .card-image-side {
   background-color: #FFC20E;
   height: 500px;
 }
 
-#job_category .job_category__item .content_side .content_subtitle {
+#career-page #job_category .job_category__item .content_side .content_subtitle {
   font-family: GothamLight;
   line-height: 1.5;
   font-size: 20px;
 }
 
-#job_category .job_category__item .content_side .content_title {
+#career-page #job_category .job_category__item .content_side .content_title {
   font-family: GothamRegular;
   line-height: 1.4;
   font-size: 30px;
   white-space: nowrap;
 }
 
-#job_category .job_category__item .content_side .label-icon {
+#career-page #job_category .job_category__item .content_side .label-icon {
   padding: 10px;
   padding-right: 0;
   padding-left: 20px;
 }
 
-#job_category .job_category__item .content_side .label-icon .content_text {
+#career-page #job_category .job_category__item .content_side .label-icon .content_text {
   font-family: GothamLight;
   color: #686868;
   line-height: 1.5;
@@ -78,27 +78,27 @@
   font-weight: 300;
   font-size: 14px;
 }
-#info{
+#career-page #info{
   margin-bottom: 5%;
 }
-#info .info__content{
+#career-page #info .info__content{
   margin-top: 5%;
   margin-bottom: 2.5%;
 }
-#info .info__content p{
+#career-page #info .info__content p{
   font-family: GothamLightItalic;
   font-style: italic;
   font-size: 16px;
   line-height: 1.1;
 }
-#info .info__content a{
+#career-page #info .info__content a{
   color: #000;
   text-decoration: none;
 }
-#info .info__action{
+#career-page #info .info__action{
   margin-bottom: 2.5%;
 }
-#info .info__action a{
+#career-page #info .info__action a{
   color: #000;
   text-decoration: none;
   font-weight: bold;

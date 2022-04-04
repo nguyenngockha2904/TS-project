@@ -13,22 +13,19 @@
 
 #news-page #event_news .event_news__main .card-text {
 	font-size: 16px;
-	font-weight: 100;
 	font-family: GothamLight;
 }
 
 #news-page #event_news .text-timeDate {
 	color: #232323;
-	font-style: italic;
-	font-weight: 100;
-	font-size: 16px;
+	font-size: 14px;
 	font-family: GothamLightItalic;
 }
 
 #news-page #event_news .text-timeline {
 	color: #8E8E8E;
 	font-family: GothamLight;
-	font-size: 16px;
+	font-size: 14px;	
 }
 
 #news-page #event_news .image_news {
@@ -46,7 +43,7 @@
 }
 
 #news-page #event_news .event_news__list .card-title {
-	font-size: 32px;
+	font-size: 25px;
 	font-family: GothamRegular;
 	flex: 1;
 	flex-shrink: 0;
@@ -91,8 +88,7 @@
 	color: #232323;
 	background-color: #fff;
 }
-#news-page #event_news .event_news__list .news__item .datetime_box b{
-	font-weight: bold;
+#news-page #event_news .event_news__list .news__item .datetime_box span.date{
 	font-size: 38px;
 	line-height: 1;
 	font-family: GothamRegular;

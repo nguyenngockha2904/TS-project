@@ -42,6 +42,11 @@
   src: url(../fonts/gotham/SVN-Gotham-Bold.otf);
   /* font-weight: 700; */
 }
+@font-face {
+  font-family: GothamBoldItalic;
+  src: url(../fonts/gotham/SVN-Gotham-Bold-Italic.otf);
+  /* font-weight: 700; */
+}
 
 @font-face {
   font-family: GothamRegular;

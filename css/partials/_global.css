@@ -24,7 +24,15 @@ button:hover .btn:active,
     outline: 0px !important;
     box-shadow: none !important;
   }
-
+button.btn.btn-warning{
+  background-color:#FFC20E;
+}
+button{
+  font-family: GothamRegular;
+}
+.text-warning{
+  color: #FFC20E
+}
 .opacity-0{
   opacity: 0;
 }

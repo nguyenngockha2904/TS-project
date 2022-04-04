@@ -72,7 +72,10 @@ header .header__form-search input::placeholder {
   color: #2a4178;
   font-size: 27px;
   font-family: GothamRegular;
-  font-weight: 800;
+}
+.contact span.contact__title{
+  font-size:20px;
+  font-family: GothamBold;
 }
 .contact .icon {
   width: 30px;
@@ -91,7 +94,9 @@ header .header__form-search input::placeholder {
 }
 .label-icon.dark .contact__title {
     color: #fff;
-  }
+    font-family: GothamBook;
+    font-size: 16px;
+}
 footer {
   background-color: #232323;
   padding: 5% 0;
@@ -115,6 +120,6 @@ footer .head__footer{
 }
 .line-break span{
   background-color: #232323;
-  width: 40px;
+  width: 80px;
   height: 1px;
 }

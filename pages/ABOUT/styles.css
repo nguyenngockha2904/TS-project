@@ -1,10 +1,9 @@
 main #about-page .page_title {
-  font-size: 42px;
+  font-size: 38px;
   font-family: GothamBold;
-  font-weight: 700;
-  color: #000;
+  color: #232323;
   margin: 5% 0;
-  text-align: center;
+  text-align: center; 
 }
 
 #about-page #banner ul {
@@ -21,9 +20,8 @@ main #about-page .page_title {
 }
 
 #about-page #banner .banner__list-info .banner__text {
-  font-size: 16px;
+  font-size: 14px;
   font-family: GothamLight;
-  letter-spacing: 0.5px;
 }
 
 #about-page #banner .div_title {
@@ -35,8 +33,7 @@ main #about-page .page_title {
 }
 
 #about-page #banner .div_title .banner__text-title {
-  font-size: 42px;
-  font-weight: bolder;
+  font-size: 38px;
   font-family: GothamBold;
   line-height: 1.1;
 }
@@ -54,11 +51,11 @@ main #about-page .page_title {
 }
 #about-page #about_detail .about_detail__title{
   font-family: GothamBold;
-  font-size: 35px;
-  font-weight: bold;
+  font-size: 32px;
   color: #fff;
   text-align: center;
   margin-bottom: 100px;
+  line-height: 1.4;
 }
 #about-page #about_detail .detail_content{
   position: relative;
@@ -77,7 +74,6 @@ main #about-page .page_title {
 }
 
 #about-page #about_detail .detail_content .text-detail{
-  font-weight: 200;
   font-family: GothamLight;
   font-size: 16px;
   line-height: 1.3;

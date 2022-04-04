@@ -48,7 +48,6 @@
 #contact-page #banner .banner__box .contact__div .contact__content {
     color: #fff;
     font-family: GothamLightItalic;
-    font-style: italic;
     font-size: 16px;
 }
 #contact-page #banner .banner__box .contact__div .wrap_contact__form{
@@ -109,6 +108,9 @@
 #contact-page #banner .showroom_info .showroom_img_overlay .showroom__detail {
     text-align: right;
     color: #232323;
-    letter-spacing: 0.7px;
     margin-bottom: 30px;
+    font-family: GothamLight;
   }
+#contact-page #banner .showroom_info .showroom_img_overlay .showroom__actions button{
+    font-size: 20px;
+}

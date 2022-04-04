@@ -16,7 +16,7 @@
 #home-page #banner .text-detail {
   font-size: 18px;
   font-family: GothamBook;
-  line-height: 1;
+  line-height: 1.2;
   margin-bottom: 20px;
 }
 #home-page #banner .banner__actions {
@@ -49,22 +49,19 @@
   margin-bottom: 10%;
 }
 #home-page #collection .collection__item .content__side .text-collection {
-  color: #000;
-  font-weight: 600;
   font-family: GothamRegular;
-  font-size: 17px;
+  font-size: 18px;
   color: #232323;
 }
 #home-page #collection .collection__item .content__side .text-collection-name {
   font-family: GothamBold;
-  font-weight: 800;
-  font-size: 33px;
+  font-size: 35px;
   color: #232323;
   margin: 0;
 }
 #home-page #collection .collection__item .content__side .text-style {
   font-family: GothamRegular;
-  font-size: 27px;
+  font-size: 25px;
   color: #494949;
   margin-bottom: 15px;
 }
@@ -81,6 +78,7 @@
 }
 #home-page #collection .collection__item .content__actions {
   margin: 0 -5px;
+  padding: 0;
 }
 #home-page #collection .collection__item .content__actions button {
   margin: 0 5px;
@@ -144,8 +142,7 @@
 }
 #home-page #all-services .service__item .service__title p {
   font-family: GothamRegular;
-  font-size: 27px;
-  font-weight: 700;
+  font-size: 25px;
   color: #fff;
   line-height: 1;
 }
@@ -157,6 +154,7 @@
   line-height: 1.5;
   font-family: GothamLight;
   color: #fff;
+  font-size: 16px;
 }
 #home-page #all-services{
 	margin-bottom: 10%;

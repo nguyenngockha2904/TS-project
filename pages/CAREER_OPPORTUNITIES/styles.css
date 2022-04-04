@@ -91,6 +91,9 @@
   font-size: 16px;
   line-height: 1.1;
 }
+#career-page #info .info__content b{
+  font-family: GothamBoldItalic;
+}
 #career-page #info .info__content a{
   color: #000;
   text-decoration: none;
@@ -99,8 +102,8 @@
   margin-bottom: 2.5%;
 }
 #career-page #info .info__action a{
-  color: #000;
+  color: #232323;
   text-decoration: none;
-  font-weight: bold;
   font-family: GothamBold;
+  font-size: 22px;
 }

@@ -123,3 +123,107 @@ footer .head__footer{
   width: 80px;
   height: 1px;
 }
+
+
+
+#top-offer-page #list_banner .banner_item .banner__offer_box {
+  border-radius: 5px;
+  border: 1px solid #fff;
+  position: relative;
+}
+
+#top-offer-page #list_banner .banner_item .banner__offer_box .overplay {
+  filter: blur(12px);
+  -webkit-filter: blur(12px);
+  background-position: center;
+  background-color: rgb(207, 206, 206);
+  /* Fallback color */
+  background-color: rgba(207, 206, 206, 0.5);
+  /* Black w/opacity/see-through */
+  position: absolute;
+  top: 1px;
+  bottom: 1px;
+  right: 1px;
+  left: 1px;
+}
+.banner__offer_box{
+  display: inline-flex;
+  align-items: center;
+  border-radius: 5px;
+  border: 1px solid #fff;
+}
+.banner__offer_box .content_box {
+  position: relative;
+  min-width: 370px;
+  justify-content: space-between;
+}
+
+.banner__offer_box .content_box .offer__title {
+  font-size: 23px;
+  font-family: GothamLight;
+  color: #fff;
+}
+.banner__offer_box .content_box .border-line{
+  border-color: #fff;
+  border-left: 1px solid #dee2e6;
+}
+.banner__offer_box .content_box .offer__info{
+  color: #fff;
+}
+.banner__offer_box .content_box .offer__info .offer__text {
+  font-family: GothamBold; 
+  line-height: 1;
+  font-size: 22px;
+  border: 1px solid #fff;
+  padding: 3px;
+  border-radius: 3px;
+  margin-right: 7px;
+}
+
+.banner__offer_box .content_box .offer__text_italic {
+  font-family: GothamBookItalic;
+  font-size: 20px;
+  line-height: 1.2;
+  margin-left: 4px;
+}
+
+.banner__offer_box .number_offer .number {
+  font-size: 100px;
+  font-family: GothamRegular;
+  line-height: 1;
+}
+
+.banner__offer_box .number_offer .percent {
+  font-size: 50px;
+  font-family: GothamRegular;
+  line-height: 1;
+}
+
+.banner__offer_box.yellow{
+  border-color: #FFC20E;
+  background-color: #FFC20E;
+}
+.banner__offer_box.yellow .content_box .offer__info .offer__text{
+  border-color: #232323;
+}
+.banner__offer_box.yellow .content_box .offer__title {
+  color: #232323;
+}
+.banner__offer_box.yellow .content_box .offer__info{
+  color: #232323;
+}
+.banner__offer_box.yellow .content_box .border-line{
+  border-color: #232323;
+}
+
+.modalTS-div{
+  background-color: #fff;
+  position: relative;
+  padding: 100px;
+}
+.modalTS-div .icon_float{
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%,-20px);
+  top: 0;
+}

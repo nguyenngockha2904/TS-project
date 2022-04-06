@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="247.401" height="162.51" viewBox="0 0 247.401 162.51">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="-33" y="6" width="247.401" height="162.51" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="ico-girf" transform="translate(33 -6)" clip-path="url(#clip-path)" style="isolation: isolate">
+    <g id="ico-girf-2" data-name="ico-girf" transform="translate(-896.775 -1312.952)">
+      <path id="Path_78" data-name="Path 78" d="M1038.223,1377.491v78.971h-107.5v-78.971" fill="none" stroke="#ffc20e" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_79" data-name="Path 79" d="M921.775,1377.491V1355.97h125.4v21.521" fill="none" stroke="#ffc20e" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_80" data-name="Path 80" d="M946.948,1347.713a18.766,18.766,0,0,1,37.532,0" fill="none" stroke="#ffc20e" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_81" data-name="Path 81" d="M984.48,1347.713a18.762,18.762,0,0,1,37.523,0" fill="none" stroke="#ffc20e" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_83" data-name="Path 83" d="M1002.819,1387.8a19.726,19.726,0,0,0-19.493,16.714h-30.3v22.728h6.015v-16.714h24.282a19.723,19.723,0,1,0,19.494-22.728" fill="none" stroke="#ffc20e" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_85" data-name="Path 85" d="M960.551,1396.161a4.516,4.516,0,1,0-4.515,4.516,4.516,4.516,0,0,0,4.515-4.516" fill="none" stroke="#ffc20e" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

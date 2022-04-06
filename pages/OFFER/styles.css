@@ -37,3 +37,59 @@
   padding-top: 40px;
   align-self: end;
 }
+
+#offer-page #banner #offer-carousel .carousel-item  .text-detail{
+  font-family: GothamLight;
+  font-size: 16px;
+}
+#offer-page #banner #offer-carousel .carousel-item .group-content.head p{
+  margin-bottom: 15px;
+  text-align: center;
+}
+#offer-page #banner #offer-carousel .carousel-item .modalTS__content .line-break{
+  margin: 10% 0;
+}
+#offer-page #banner #offer-carousel .carousel-item .group-content.group-box-offer .text-title{
+  font-size: 45px;
+  font-family: GothamRegular;
+  margin-bottom: 40px;
+  text-align: center;
+}
+#offer-page #banner #offer-carousel .carousel-item .group-box-offer .box-offers{
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  /* grid-template-columns: repeat(5,1fr); */
+}
+#offer-page #banner #offer-carousel .carousel-item .group-box-offer .box-offers .box-offer__item{
+  /* display: inline-flex; */
+}
+#offer-page #banner #offer-carousel .carousel-item .group-box-offer .box-offers .box-offer__item img{
+  height: 100px;
+}
+#offer-page #banner #offer-carousel .carousel-item .box-offers .offer__img{
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 115px;
+  width: 100%;
+  position: relative;
+  /* padding:0 70px; */
+  /* margin: 0 20px; */
+}
+#offer-page #banner #offer-carousel .carousel-item .box-offers .box-offer__item .icon-plus{
+  margin: 0 20px;
+}
+/* #offer-page #banner #offer-carousel .carousel-item .box-offers .offer__img::after{
+  content:url(../../images/ico-plus.svg);
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#offer-page #banner #offer-carousel .carousel-item .box-offers .box-offer__item:last-child .offer__img::after{
+  content:'';
+} */

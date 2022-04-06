@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="248.111" height="162" viewBox="0 0 248.111 162">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="-6" y="25" width="248.111" height="162" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="ico-1-year" transform="translate(6 -25)" clip-path="url(#clip-path)" style="isolation: isolate">
+    <g id="ico-1-year-2" data-name="ico-1-year" transform="translate(-1407.125 -1291.352)">
+      <text id="_01" data-name="01" transform="translate(1407.125 1443.352)" fill="#ffc20e" font-size="140.471" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0" letter-spacing="-0.05em">0</tspan><tspan y="0">1</tspan></text>
+      <text id="năm" transform="translate(1565.236 1443.352)" fill="#ffc20e" font-size="40.165" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0" letter-spacing="-0.049em">nă</tspan><tspan y="0">m</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="248.335" height="162.403" viewBox="0 0 248.335 162.403">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="-43" y="-22" width="248.335" height="162.403" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="ico-head" transform="translate(43 22)" clip-path="url(#clip-path)" style="isolation: isolate">
+    <g id="ico-head-2" data-name="ico-head" transform="translate(-913.371 -548.372)">
+      <path id="Path_86" data-name="Path 86" d="M1185.252,1419.5c-.15,3.962,11.447,16.511,56.486,15.629" transform="translate(-216 -789)" fill="none" stroke="#ffc20e" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_87" data-name="Path 87" d="M1204.624,1375.034s-3.61,13.512,3.522,15.629c8.077,2.4,28.472-24.654,43.806-30.378,13.026-4.861,22.649-3.229,33.117,5.43" transform="translate(-216 -789)" fill="none" stroke="#ffc20e" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_88" data-name="Path 88" d="M1183.932,1400.528c.894-12.578,10.516-41.472,38.006-50.9,0,0,3.841-7.44,14.676-9.622,7.87-1.586,25.2-.493,32.387,12.513v.009c23.615,11.648,28.577,37.906,27.026,56.185,8.455,13.133-12.633,20.23-32.79,27.535-11.5,4.168-28.192,12.259-51.131,14.292-15.4,1.368-31.476-3.739-35.444-14.31-3.985-10.626,1.989-21.79,1.989-21.79" transform="translate(-248.907 -788)" fill="none" stroke="#ffc20e" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

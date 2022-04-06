@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="249" height="162" viewBox="0 0 249 162">
+  <defs>
+    <clipPath id="clip-path">
+      <rect y="24" width="249" height="162" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="_30-percent" data-name="30-percent" transform="translate(0 -24)" clip-path="url(#clip-path)" style="isolation: isolate">
+    <g id="_30-percent-2" data-name="30-percent" transform="translate(-73.97 -329.352)">
+      <text id="_30" data-name="30" transform="translate(123.97 481.352)" fill="#ffc20e" font-size="140.471" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0" letter-spacing="-0.05em">3</tspan><tspan y="0">0</tspan></text>
+      <text id="_" data-name="%" transform="translate(214.35 447.274)" fill="#ffc20e" font-size="40.165" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">%</tspan></text>
+    </g>
+  </g>
+</svg>

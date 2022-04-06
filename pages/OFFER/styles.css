@@ -1,5 +1,4 @@
 #offer-page #banner {
-  margin-bottom: 40px;
   min-height: 100vh;
 }
 #offer-page #banner #offer-carousel .carousel-control-next, 
@@ -17,13 +16,12 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  min-height: 100vh;
+  padding-bottom: 13vh;
 }
 
 #offer-page #banner #offer-carousel .carousel-indicators li.active {
   background-color: #FFC20E;
-  /* padding: 0 10px; */
-  /* border-radius: 50px;
-  width: 20px; */
 }
 
 #offer-page #banner #offer-carousel .carousel-item {
@@ -46,23 +44,40 @@
   margin-bottom: 15px;
   text-align: center;
 }
+#offer-page #banner #offer-carousel .carousel-item .modalTS-div{
+  padding: 100px 40px;
+}
 #offer-page #banner #offer-carousel .carousel-item .modalTS__content .line-break{
   margin: 10% 0;
 }
-#offer-page #banner #offer-carousel .carousel-item .group-content.group-box-offer .text-title{
+#offer-page #banner #offer-carousel .carousel-item .group-content .text-title{
   font-size: 45px;
   font-family: GothamRegular;
-  margin-bottom: 40px;
   text-align: center;
+}
+#offer-page #banner #offer-carousel .carousel-item .group-content .text-detail{
+  font-size: 16px;
+  font-family: GothamLight;
+}
+#offer-page #banner #offer-carousel .carousel-item .group-content.group-box-offer .text-title{
+  margin-bottom: 40px; 
 }
 #offer-page #banner #offer-carousel .carousel-item .group-box-offer .box-offers{
   display: flex;
   flex-wrap: nowrap;
-  align-items: center;
-  /* grid-template-columns: repeat(5,1fr); */
+  justify-content: space-between;
+  border: 1px solid #FFC20E;
+  padding: 50px 30px;
+  margin-bottom: 40px;
+}
+#offer-page #banner #offer-carousel .carousel-item .group-box-offer .box-offers .icon-plus{
+  margin: 0 15px;
+  transform: translateY(50px);
 }
 #offer-page #banner #offer-carousel .carousel-item .group-box-offer .box-offers .box-offer__item{
-  /* display: inline-flex; */
+  display: inline-flex;
+  flex-direction: column;
+  width: 240px;
 }
 #offer-page #banner #offer-carousel .carousel-item .group-box-offer .box-offers .box-offer__item img{
   height: 100px;
@@ -74,22 +89,28 @@
   height: 115px;
   width: 100%;
   position: relative;
-  /* padding:0 70px; */
-  /* margin: 0 20px; */
 }
 #offer-page #banner #offer-carousel .carousel-item .box-offers .box-offer__item .icon-plus{
   margin: 0 20px;
 }
-/* #offer-page #banner #offer-carousel .carousel-item .box-offers .offer__img::after{
-  content:url(../../images/ico-plus.svg);
-  width: 10px;
-  height: 10px;
-  position: absolute;
-  right: 0;
-  top: 50%;
-  transform: translateY(-50%);
+#offer-page #banner #offer-carousel .carousel-item .group-box-offer .box-offers .box-offer__item .box-offer__content{
+  font-family: GothamLight;
+  font-size: 16px;
+  text-align: center;
+}
+#offer-page #banner #offer-carousel .carousel-item .group-box-offer .group_timeline{
+
+}
+#offer-page #banner #offer-carousel .carousel-item .group_timeline .text-detail{
+  font-size: 20px; 
+  font-family: GothamLight;
+  text-align: center;
 }
 
-#offer-page #banner #offer-carousel .carousel-item .box-offers .box-offer__item:last-child .offer__img::after{
-  content:'';
-} */
+#offer-page #banner #offer-carousel .carousel-item .group_timeline .text-detail .bold{
+  font-family: GothamRegular;
+}
+#offer-page #banner #offer-carousel .carousel-item .footer-box .text-detail{
+  font-size: 22px;
+  font-family: GothamLight;
+}
